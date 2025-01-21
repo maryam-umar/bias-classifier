@@ -22,7 +22,7 @@ A machine learning model that classifies news articles as either left or right-l
 ## **Project Structure**
 bias-classifier/
 ├── notebooks/
-│   └──BiasClassifier.ipynb    # Main notebook with model development
+│   └── Political_Bias_Classification.ipynb    # Main notebook with model development
 ├── models/
 │   ├── tfidf_model.pkl    # Saved TF-IDF vectorizer
 │   └── pac_model.pkl      # Saved classifier
