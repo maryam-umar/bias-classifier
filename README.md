@@ -22,6 +22,7 @@ A machine learning model that classifies news articles as either left or right-l
 ## **Installation**
 ```bash
 pip install -r requirements.txt
+```bash
 
 ## **Project Structure**
 bias-classifier/
