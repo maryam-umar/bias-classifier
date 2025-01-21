@@ -19,16 +19,6 @@ A machine learning model that classifies news articles as either left or right-l
 - Training split: 80%
 - Testing split: 20%
 
-## **Project Structure**
-bias-classifier/
-├── notebooks/
-│   └── Political_Bias_Classification.ipynb    # Main notebook with model development
-├── models/
-│   ├── tfidf_model.pkl    # Saved TF-IDF vectorizer
-│   └── pac_model.pkl      # Saved classifier
-├── requirements.txt       # Project dependencies
-└── README.md             # Project documentation
-
 ## **Model Details**
 
 Algorithm: Passive Aggressive Classifier
