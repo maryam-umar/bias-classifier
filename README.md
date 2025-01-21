@@ -47,7 +47,10 @@ Throughout this project, the following have emerged:
 - Current scope limited to English language articles
 
 ## **References**
-@mhoali. Right and Left wing news articles with NLP. [cited 2025 Jan 19]. Right and Left wing news articles with NLP. Available from: https://www.kaggle.com/datasets/mhoali/right-and-left-wing-news-articles-with-nlp
-Pedregosa F, Varoquaux G, Gramfort A, Michel V, Thirion B, Grisel O, et al. Scikit-learn: Machine Learning in Python. MACHINE LEARNING IN PYTHON. 
-Riego NCR, Villarba DB. Utilization of Multinomial Naive Bayes Algorithm and Term Frequency Inverse Document Frequency (TF-IDF Vectorizer) in Checking the Credibility of News Tweet in the Philippines [Internet]. arXiv; 2023 [cited 2025 Jan 21]. Available from: http://arxiv.org/abs/2306.00018
-Crammer K, Dekel O, Keshet J, Shalev-Shwartz S, Singer Y. Online Passive-Aggressive Algorithms. 
+1. @mhoali. Right and Left wing news articles with NLP. [cited 2025 Jan 19]. Right and Left wing news articles with NLP. Available from: https://www.kaggle.com/datasets/mhoali/right-and-left-wing-news-articles-with-nlp
+
+2. Pedregosa F, Varoquaux G, Gramfort A, Michel V, Thirion B, Grisel O, et al. Scikit-learn: Machine Learning in Python. MACHINE LEARNING IN PYTHON.
+   
+3. Riego NCR, Villarba DB. Utilization of Multinomial Naive Bayes Algorithm and Term Frequency Inverse Document Frequency (TF-IDF Vectorizer) in Checking the Credibility of News Tweet in the Philippines [Internet]. arXiv; 2023 [cited 2025 Jan 21]. Available from: http://arxiv.org/abs/2306.00018
+   
+4. Crammer K, Dekel O, Keshet J, Shalev-Shwartz S, Singer Y. Online Passive-Aggressive Algorithms. 
