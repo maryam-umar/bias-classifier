@@ -5,11 +5,11 @@ A machine learning model that classifies news articles as either left or right-l
 
 ### **Metrics**
 - Overall Accuracy: 87.89%
-- Left-leaning articles:
+- **Left-leaning articles:**
  - Precision: 0.91
  - Recall: 0.90
  - F1-score: 0.90
-- Right-leaning articles:
+- **Right-leaning articles:**
  - Precision: 0.83
  - Recall: 0.83
  - F1-score: 0.83
